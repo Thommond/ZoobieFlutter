@@ -1,10 +1,17 @@
-# flutter_test_2
+# flutter_test_2 (Zoobie)
 
-A new Flutter project.
+Zoobie basic app to get used to flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure you have flutter installed.
+
+Git clone the project.
+
+Cd into project. 
+
+```flutter run``` On the command line.
+
 
 A few resources to get you started if this is your first Flutter project:
 
